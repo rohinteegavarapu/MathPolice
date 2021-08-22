@@ -6,9 +6,8 @@ There are different difficulties.
 You can choose what difficulty you want by responding to the difficulty input prompt with, "Easy", "Medium", "Hard", "Insane", "Godlike", or "Boss Word 1".
 
 # Prerequisites:
-
-
 You must have Python 3.
+I also recommend Jgrasp if you want to run the Game Calculator.
 
 # Rules:
 
