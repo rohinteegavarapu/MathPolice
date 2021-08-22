@@ -70,7 +70,7 @@ if d == "Easy":
     while score < 5:
 
         answer6 = input(
-            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at.")
+            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at https://github.com/RobinhoodDev/MathPolice/discussions/2.")
 
         if answer6 == "yes":
 
@@ -204,7 +204,7 @@ elif d == "Medium":
     while score < 5:
 
         answer6 = input(
-            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at .")
+            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at https://github.com/RobinhoodDev/MathPolice/discussions/2.")
 
         if answer6 == "yes":
 
@@ -340,7 +340,7 @@ if d == "Hard":
     while score < 5:
 
         answer6 = input(
-            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at .")
+            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at https://github.com/RobinhoodDev/MathPolice/discussions/2 .")
 
         if answer6 == "yes":
 
@@ -456,7 +456,7 @@ if d == "Insane":
     while score < 5:
 
         answer6 = input(
-            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at .")
+            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at https://github.com/RobinhoodDev/MathPolice/discussions/2.")
 
         if answer6 == "yes":
             answer1 = int(input("Translate the word acetylglycine into a numeric value"))
@@ -568,7 +568,7 @@ if d == "Godlike":
     while score < 5:
 
         answer6 = input(
-            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at https://github.com/RobinhoodDev/Math-Police/discussions/7.")
+            "Do you want to retake this quiz? This message should only appear if you did not get a perfect score. If this message appears even with a perfect score, please report the bug at https://github.com/RobinhoodDev/MathPolice/discussions/2.")
 
         if answer6 == "yes":
 
@@ -649,6 +649,8 @@ if d == "Boss Word 1":
 
     else:
         print("Incorrect!")
+
+
 
 
 
