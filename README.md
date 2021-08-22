@@ -39,9 +39,9 @@ Boss Word 1: 183 letters
 
 Final Boss: In progress
 
-# Extras
+# Extras:
 Attached In the main branch is a file called "The Calculating Method". This is the java code used to calculate the "Word Value" (The numerical value of the word in this game)
-# Credits
+# Credits:
 A great thanks to my brother for making the calculating method for my game. Without it, I don't think i would have had a chance at trying to complete the Final Boss Word.
 
 
