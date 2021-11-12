@@ -446,12 +446,12 @@ if d == "Insane":
 
         print("Incorrect!")
 
-        if score == 5:
-            print("Your score is" + " " + str(score) + " " + "out of 5.Perfect!")
-        elif score < 5 and score > 2:
-            print("Your score is" + " " + str(score) + " " + "out of 5. That's pretty good!")
+        if score == 3:
+            print("Your score is" + " " + str(score) + " " + "out of 3.Perfect!")
+        elif score < 3 and score > 1:
+            print("Your score is" + " " + str(score) + " " + "out of 3. That's pretty good!")
         else:
-            print("Your score is" + " " + str(score) + " " + "out of 5. Better luck next time!")
+            print("Your score is" + " " + str(score) + " " + "out of 3. Better luck next time!")
 
     while score < 5:
 
@@ -489,12 +489,12 @@ if d == "Insane":
             else:
 
                 print("Incorrect!")
-            if score == "5":
-                print("Your score is" + " " + str(score) + " " + "out of 5.Perfect!")
-            elif score < 5 and score >= 3:
-                print("Your score is" + " " + str(score) + " " + "out of 5. That's pretty good!")
+            if score == "3":
+                print("Your score is" + " " + str(score) + " " + "out of 3.Perfect!")
+            elif score < 3 and score >= 1:
+                print("Your score is" + " " + str(score) + " " + "out of 3. That's pretty good!")
             else:
-                print("Your score is" + " " + str(score) + " " + "out of 5. Better luck next time!")
+                print("Your score is" + " " + str(score) + " " + "out of 3. Better luck next time!")
 
         elif answer6 == "no":
          score = 5
