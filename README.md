@@ -38,7 +38,7 @@ Insane: 13 to 16-letter words
 
 Godlike: 27-45 letter words
 
-Boss Word 1: 183 letters
+Final Boss: 183 letters
 
 ##### I have decided not word sizes and difficuties for Worlds 2-4 YET.
 # Extras:
