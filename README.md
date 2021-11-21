@@ -47,7 +47,8 @@ And, you can only use lowercase letters.
 # OST Importing:
 When the update gets released, the OST will be added to the project. We recommend getting PyCharm. Run Math Police using PyCharm. Then move the songs from the folder into the PycharmProject that contains the game. 
 It should look like this:
-![image](https://user-images.githubusercontent.com/85838468/142765300-8689e953-046b-4a53-8e86-6ffbe160ff1d.png)
+![image](https://user-images.githubusercontent.com/85838468/142768087-bc1c4ee7-9b7b-423b-a0b7-c8155f6555c8.png)
+
 Then the music for each world should play when you open the file and choose the world!
 # Credits:
 A great thanks to my brother for making the calculating method for my game. Without it, I don't think i would have had a chance at trying to complete the Final Boss Word.
