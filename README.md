@@ -54,7 +54,7 @@ It should look like this:
 
 Then the music for each world should play when you open the file and choose the world!
 # Credits:
-A great thanks to my brother for making the calculating method for my game. And even more thanks to Colby, and old friend of my brothers' who came up with the game of Math Police. A small game that tyou could play in a car turned into one of my most ambitious coding projects. It was thanks to him that I learned so much from creating Math Police.
+A great thanks to my brother for making the calculating method for my game. And even more thanks to Colby, and old friend of my brothers' who came up with the game of Math Police. A small game that you could play in a car turned into one of my most ambitious coding projects. It was thanks to him that I learned so much from creating Math Police.
 
 
 
