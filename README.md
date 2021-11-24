@@ -9,6 +9,7 @@ You can choose what difficulty you want by responding to the difficulty input pr
 # Prerequisites:
 You must have Python 3.
 We recommend always having the latest version of Python as well as having the latest version of PyCharm (Community or Professional Edition). Any other Python IDE is okay but you may need to do it differently.
+You may need pygame directly installed on your computer.
 
 # Rules:
 
